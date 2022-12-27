@@ -123,7 +123,7 @@ To restore a backup from existing tables run:
     --env-file ENVIRONMENT_FILE_PATH \
     -v VOLUME_FILE_PATH \
     DOCKER NAME  \
-    ./create_backup.sh TABLE_NAME_1 TABLE_NAME_2 TABLE_NAME_N
+    ./load_backup.sh TABLE_NAME_1 TABLE_NAME_2 TABLE_NAME_N
 
 Where
 
