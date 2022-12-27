@@ -1,0 +1,8 @@
+flask
+flask_restful
+pandas
+pyodbc
+sqlalchemy
+python-dotenv
+openpyxl
+xlrd
